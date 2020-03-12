@@ -1,2 +1,2 @@
 # Website
-Own personal website
+- Build my own personal website with HTML, CSS and JS
